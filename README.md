@@ -15,3 +15,4 @@ Dự án mô phỏng so sánh khả năng kiểm soát tắc nghẽn và thông 
    ./ns3 run "tcp-comparison --tcpVariant=TcpNewReno"
    ./ns3 run "tcp-comparison --tcpVariant=TcpCubic"
 python3 plot.py
+# N44_2026_LTM_010_015
